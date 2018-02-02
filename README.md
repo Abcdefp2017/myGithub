@@ -1,2 +1,2 @@
 # myGithub
-recorde something about Programming
+a example about vue and element achieve simple calculator.
